@@ -1,0 +1,12 @@
+name = "seme"
+license = "MIT"
+licenselink = ""
+description = "barebone theme for hugo"
+homepage = ""
+tags = []
+features = []
+min_version = "0.41.0"
+
+[author]
+  name = "Jolian"
+  homepage = "jolian.xyz"
