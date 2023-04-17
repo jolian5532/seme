@@ -1,2 +1,2 @@
 # seme
-a barebone theme for hugo
+a barebone theme for hugo.
